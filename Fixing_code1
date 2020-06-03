@@ -8,4 +8,4 @@ def lone_sum(a, b, c):
     elif a == b and a == c and b == c:
         return 0
     else:
-        print(a+b+c
+        print(a+b+c)
